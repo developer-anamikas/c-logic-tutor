@@ -1,8 +1,5 @@
 # 💻 C Logic Tutor: AI-Powered Learning Assistant
 
-[![Live Demo](https://c-tutor-5da32.web.app)
-
-
 ## 🎯 Project Overview
 **C Logic Tutor** is an educational tool designed for the **Solution Challenge 2026**. It helps students master C programming by using the **Gemini AI API** to provide logical guidance without spoiling the final answer. Instead of giving code, it breaks problems down into 3 actionable logic steps and a helpful hint to encourage critical thinking.
 
@@ -39,6 +36,7 @@ npm install
 To keep your API keys secure, the project uses a .env file. Create a new file named .env in the root folder and add your Gemini API Key:
 VITE_GEMINI_API_KEY=your_actual_api_key_here
 VITE_APP_URL="[https://c-tutor-5da32.web.app](https://c-tutor-5da32.web.app)"
+
 
 4. Start Development Server
 Run this command to open the project in your browser:
